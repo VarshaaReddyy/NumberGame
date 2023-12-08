@@ -1,4 +1,3 @@
-// NumberGame
 import java.util.Scanner;
 public class NumberGame2 {
 	public static void guess()
